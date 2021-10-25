@@ -1,0 +1,17 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - always_declare_return_types
+    - always_put_required_named_parameters_first
+    - always_use_package_imports
+    - avoid_positional_boolean_parameters
+    - avoid_redundant_argument_values
+    - avoid_void_async
+    - cascade_invocations
+    - lines_longer_than_80_chars
+    - prefer_final_in_for_each
+    - prefer_final_locals
+    - prefer_single_quotes
+    - sort_child_properties_last
+    - sort_constructors_first
