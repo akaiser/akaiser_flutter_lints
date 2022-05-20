@@ -16,5 +16,4 @@ linter:
     - prefer_final_locals
     - prefer_int_literals
     - prefer_single_quotes
-    - sort_child_properties_last
     - sort_constructors_first

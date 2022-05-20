@@ -1,8 +1,9 @@
 name: akaiser_flutter_lints
-version: 0.1.3
+publish_to: none
+version: 0.1.6
 
 environment:
-  sdk: '>=2.14.4 <3.0.0'
+  sdk: '>=2.17.0 <3.0.0'
 
 dependencies:
-  flutter_lints: ^1.0.4
+  flutter_lints: ^2.0.1
